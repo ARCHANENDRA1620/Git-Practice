@@ -1,0 +1,3 @@
+git commands:
+git status: for checking the status of git changes
+git add: for adding the changes
